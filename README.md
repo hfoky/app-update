@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/Kotlin-2.2-blue.svg?style=for-the-badge&logo=kotlin" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-purple.svg?style=for-the-badge&logo=jetpackcompose" alt="Compose" />
   <img src="https://img.shields.io/badge/Architecture-MVVM-orange.svg?style=for-the-badge" alt="MVVM" />
-  <img src="https://img.shields.io/badge/Version-1.0-brightgreen.svg?style=for-the-badge" alt="Version" />
-</p>
 
 ---
 
